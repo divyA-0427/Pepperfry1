@@ -38,7 +38,7 @@ Other Files:
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/Pepperfry1.git
+   git clone git clone https://github.com/divyA-0427/Pepperfry1.git
 
 
 2. Open in IntelliJ / Eclipse
